@@ -6,3 +6,5 @@ Can one determine a tweet's political affiliation? With these jupyter notebooks,
 At the moment, the model is trained using approximately 130,000 from sitting U.S. Senators in 2020. Further plans include expanding the training data to include governors and U.S. Representatives.
 
 Some of the end goals of this project are to be able to see how a twitter user's activity aligns with those who are connected to U.S. political parties. Furthermore, it would be interesting to see which features or language are used more often by those in either party.
+
+This project is currently in progress and will be updated throughout spring 2021.
